@@ -28,7 +28,7 @@
 - [Проект 4](https://github.com/EugeneAnisimov97/python-project-83) - Система управления задачами, подобная Redmine.
 ## 📫 Как со мной связаться
 
-- Email: vzero0061@mail.ru
+- Email: zero0061@mail.ru
 - Telegram: [https://t.me/Eugene_Anisimov](https://t.me/Eugene_Anisimov)
 
 ## 🌐 Другие ресурсы
